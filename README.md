@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Davi Germano Amorim, I'm 21 years old and I'm from Florianópolis - Brazil 🇧🇷
+- 👋 Hi, I’m Davi Germano Amorim.
 - 👨🏻‍💻 I’m a QA Technician and a programming student.
-- 📚 I’m currently learning programming logic and java script.
+- 📚 I’m currently learning python and robot framework.
 
-
-- Instagram @davigrmn
-- Linkedin https://www.linkedin.com/in/davi-germano-amorim-26690217a/
 - E-mail davigermano25@gmail.com
 
 <!---
