@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Davi Germano Amorim.
 - 👨🏻‍💻 I’m a QA Technician and a programming student.
-- 📚 I’m currently learning python and robot framework.
+- 📚 I’m currently learning flutter.
 
 - E-mail davigermano25@gmail.com
 
